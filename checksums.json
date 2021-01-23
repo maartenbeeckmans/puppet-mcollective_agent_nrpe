@@ -1,0 +1,18 @@
+{
+  "CHANGELOG.md": "646d87d996c8c0b18746c9a18f09f6fa",
+  "LICENSE": "3b83ef96387f14655fc854ddc3c6bd57",
+  "NOTICE": "411b47531660683464260a39d40a9e4d",
+  "README.md": "c562372c1558516e360cd2eab0a0a63e",
+  "data/defaults.yaml": "c1f95ae7da565cc37e34a742de267125",
+  "data/plugin.yaml": "e8441b199654c6debe6bbd2dd1ff9881",
+  "files/mcollective/agent/nrpe.ddl": "94a019395bfa02ed6b36995e5ca09d4b",
+  "files/mcollective/agent/nrpe.json": "52af082aeaefc94b3f808bf39b9ce660",
+  "files/mcollective/agent/nrpe.rb": "cc228139f655a995547b3e8de7da16ae",
+  "files/mcollective/aggregate/nagios_states.rb": "9d28da120936859736b0492834b2413d",
+  "files/mcollective/application/nrpe.rb": "ad36615960e89938ddc2ae7c11226aab",
+  "files/mcollective/data/nrpe_data.ddl": "9b486fb79f11533b2b1369d2b9d4b0c1",
+  "files/mcollective/data/nrpe_data.rb": "615c7eb5a05335e834fdcab7c4a17aa1",
+  "hiera.yaml": "686844de205da23a5552c4a50a517929",
+  "manifests/init.pp": "4208358bdd84557d70116cd1a8a59fb3",
+  "metadata.json": "a9db230b5376da23ca2ff8c64d0ff93d"
+}

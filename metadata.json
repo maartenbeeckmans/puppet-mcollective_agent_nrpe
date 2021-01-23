@@ -1,0 +1,23 @@
+{
+  "name": "choria-mcollective_agent_nrpe",
+  "version": "4.1.0",
+  "author": "R.I.Pienaar <rip@devco.net>",
+  "summary": "Agent to query NRPE commands via Choria",
+  "license": "Apache-2.0",
+  "source": "https://github.com/choria-plugins/nrpe-agent",
+  "project_page": "https://github.com/choria-plugins/nrpe-agent",
+  "issues_url": "https://github.com/choria-plugins/nrpe-agent/issues",
+  "dependencies": [
+    {
+      "name": "choria/mcollective",
+      "version_requirement": ">= 0.4.0 < 2.0.0"
+    }
+  ],
+  "data_provider": null,
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.9.0"
+    }
+  ]
+}
